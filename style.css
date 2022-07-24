@@ -1,0 +1,10 @@
+.singel-pac:hover{
+    background-color:#4287f5;
+    border-radius: 20px;
+    padding: 40px 30px;
+    
+}
+.singel-pac:hover .btn{
+background-color:white;
+color:#4287f5;
+}
